@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputByRef should render correctly 1`] = `
+<div
+  class="sc-dkrFOg sc-eDvSVe esOpsw dABIzc"
+  color="text_primary"
+>
+  Input Label
+</div>
+`;

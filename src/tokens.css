@@ -1,0 +1,277 @@
+:root {
+    /**
+    * @tokens Animations
+    * @presenter Animation
+    */
+  
+    --animation-rotate: rotate 1.2s infinite cubic-bezier(0.55, 0, 0.1, 1);
+  
+    /**
+    * @tokens Border Radius
+    * @presenter BorderRadius
+    */
+  
+    --border-radius-s: 4px;
+    --border-radius-m: 8px;
+    --border-radius-l: 16px;
+  
+    /**
+    * @tokens Borders
+    * @presenter Border
+    */
+  
+    --border: 3px dashed #eaecff;
+
+    /**
+    * @tokens Easings
+    * @presenter Easing
+    */
+  
+    --easing-swift: cubic-bezier(0.55, 0, 0.1, 1);
+  
+    /**
+    * @tokens Colors
+    * @presenter Color
+    */
+    
+    --periwinkle50: #eaecff;
+    --periwinkle100: #c9ceff;
+    --periwinkle200: #a4aeff;
+    --periwinkle300: #7b8dff;
+    --periwinkle400: #5870ff;
+    --periwinkle500: #3055fc;
+    --periwinkle600: #2b4cfc;
+    --periwinkle700: #1d40e3;
+    --periwinkle800: #0c34d8;
+    --periwinkle900: #011dbf;
+    --periwinkle1000: #7594FF;
+
+    --sand50: #fcf7ed;
+    --sand100: #feeac5;
+    --sand200: #ffdc97;
+    --sand300: #ffcd68;
+    --sand400: #ffc147;
+    --sand500: #ffb533;
+    --sand600: #ffa92e;
+    --sand700: #ff9929;
+    --sand800: #fb8a24;
+    --sand900: #f2721c;
+    --sand1000: #F3EEE4;
+
+    --clay10: #C2C2C2;
+    --clay20: #D9D9D9;
+    --clay50: #f9e8e6;
+    --clay100: #facbb8;
+    --clay200: #f7a98b;
+    --clay300: #f3895d;
+    --clay400: #f17038;
+    --clay500: #ef5910;
+    --clay600: #e4530c;
+    --clay700: #d74c06;
+    --clay800: #c94503;
+    --clay900: #b03800;
+    --clay1000: #B73D01;
+
+    --sky50: #d7f5ff;
+    --sky100: #a1e3fa;
+    --sky200: #62cff4;
+    --sky300: #00bcee;
+    --sky400: #00aeec;
+    --sky500: #00a0e9;
+    --sky600: #0092db;
+    --sky700: #0080c9;
+    --sky800: #006fb6;
+    --sky900: #004f95;
+    --sky1000: #8FEAFE;
+
+    --gray50: #f6f6f6;
+    --gray100: #eeeeee;
+    --gray200: #e2e2e2;
+    --gray300: #cbcbcb;
+    --gray400: #afafaf;
+    --gray500: #6b6b6b;
+    --gray600: #545454;
+    --gray700: #333333;
+    --gray800: #1f1f1f;
+    --gray900: #141414;
+
+    --green100: #addec9;
+    --green200: #66D19e;
+    --green300: #06c167;
+    --green400: #4CAF50;
+    --green500: #03703c;
+    --green600: #545454;
+    --green700: #333333;
+  
+    --yellow100: #fff2d9;
+    --yellow200: #ffe3ac;
+    --yellow300: #ffcf70;
+    --yellow400: #FFC043;
+    --yellow500: #bc8b2c;
+    --yellow600: #996f00;
+    --yellow700: #674d1b;
+
+    --red100: #fed7d2;
+    --red200: #f1998e;
+    --red300: #e85c4a;
+    --red400: #e11900;
+    --red500: #ab1300;
+    --red600: #870f00;
+    --red700: #5a0a00;
+
+    --brown100: #c94403;
+    
+    --periwinkle: #5870ff;
+    --periwinkle_light: #7594FF;
+    --sand: #fcf7ed;
+    --sand_dark: #F3EEE4;
+    --clay: #c94503;
+    --clay_dark: #B73D01;
+    --sky: #d7f5ff;
+    --sky_dark: #a1e3fa;
+    --black: #000;
+    --black_light: #333333;
+    --background_primary: #fff;
+    --background_secondary: #fcf7ed;
+    --background_tertiary: #F3EEE4;
+    --text_primary: #1f1f1f;
+    --text_secondary: #545454;
+    --text_bold: #000;
+    --icon_primary: #c94503;
+    --carousel_dot1: #000;
+    --carousel_dot2: #333333;
+    --carousel_dot3: #F3EEE4;
+    --selected_toggle_background: #c94403;
+    --selected_secondary_toggle_background: #8FEAFE;
+    --primary_toggle: #C2C2C2;
+    --secondary_toggle: #D9D9D9;
+    --white: #fff;
+    --grays: #cbcbcb;
+    --background_progress: #e2e2e2;
+    --warning: #FFC043;
+    --info: #5870ff;
+    --error: #e11900;
+    --success: #4CAF50;
+    --ui_primary: #5870ff;
+    --ui_secondary: #fcf7ed;
+    --ui_tertiary: #c94503;
+    --ui_inverted: #c94503;
+    --ui_highlight_primary: #c94503;
+    --ui_highlight_secondary: #fff;
+    --ui_highlight_tertiary: #c94503;
+    --ui_divider: #6b6b6b;
+    --ui_error: #e11900;
+    --ui_success: #4CAF50;
+    --ui_pending: #FFC043;
+    --ui_link: #B73D01;
+    --ui_background: #000;
+    --ui_text: #fff;
+    --ui_rich_text_editor_preview_box: #fff2d9;    
+  
+    /**
+    * @tokens Font Families
+    * @presenter FontFamily
+    */
+
+    --base-font-family: 'Roc Grotesk Regular';
+    --font-RocGroteskMedium: 'Roc Grotesk Medium';
+    --font-RocGroteskExtraLight: 'Roc Grotesk Extra Light';
+    --font-RocGroteskThin: 'Roc Grotesk Thin';
+    --font-RocGroteskLight: 'Roc Grotesk Light';
+    --font-RocGroteskExtraBold: 'Roc Grotesk Extra Bold';
+    --font-RocGroteskHeavy: 'Roc Grotesk Heavy';
+    --font-RocGroteskBlack: 'Roc Grotesk Black';
+    --font-RocGroteskBold: 'Roc Grotesk Bold';
+
+  
+    /**
+    * @tokens Font Sizes
+    * @presenter FontSize
+    */
+
+    --font-size-xxs: 0.5rem;
+    --font-size-xs: 0.75rem;
+    --font-size-small: 0.875rem;
+    --font-size-medium: 1rem;
+    --font-size-large: 1.25rem;
+    --font-size-xl: 1.5rem;
+    --font-size-xxl: 2rem;
+    --font-size-xxxl: 3rem;
+  
+  
+    /**
+    * @tokens Font Weights
+    * @presenter FontWeight
+    */
+  
+    --font-weight-thin: 100;
+    --font-weight-extra-light: 200;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semi-bold: 600;
+    --font-weight-bold: 700;
+    --font-weight-extra-bold: 800;
+    --font-weight-black: 900;
+  
+    /**
+    * @tokens Line Heights
+    * @presenter LineHeight
+    */
+  
+    --line-height: 1.5;
+  
+    /**
+    * @tokens Letter Spacings
+    * @presenter LetterSpacing
+    */
+  
+    --letter-spacing-none: 0;
+    --letter-spacing-s: 1px;
+    --letter-spacing-m: 2px;
+  
+    /**
+    * @tokens Opacities
+    * @presenter Opacity
+    */
+  
+    --opacity: 0.5;
+  
+    /**
+    * @tokens Shadows
+    * @presenter Shadow
+    */
+  
+    --shadow-m: 0 1px 3px rgba(0, 0, 0, 0.2);
+    --shadow-l: 0 1px 5px rgba(0, 0, 0, 0.3);
+  
+    /**
+    * @tokens Spacings
+    * @presenter Spacing
+    */
+  
+    --spacing-s: 8px;
+    --spacing-m: 12px;
+    --spacing-l: 16px;
+    --spacer: 32px;
+  
+    /**
+    * @tokens Z-Index
+    */
+  
+    --z-index: 1000;
+  
+    /**
+    * @tokens Others
+    */
+    --border-normal: 3px dashed red; /* Token Description Example @presenter Border */
+  }
+  
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }

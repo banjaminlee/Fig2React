@@ -1,0 +1,34 @@
+{
+  "markers": [
+    {
+      "_id": 0,
+      "name": "Ralph / 3345 Sports Arena Blvd San Diego, CA 92110",
+      "latitude": 32.753080,
+      "longitude": -117.209040
+    },
+    {
+      "_id": 1,
+      "name": "Food4Less / 7730 Hazard Center Dr San Diego, CA 92108",
+      "latitude": 32.771920,
+      "longitude": -117.155660
+    },
+    {
+      "_id": 2,
+      "name": "Walmart / 4840 Shawline Street, San Diego, CA 9",
+      "latitude": 32.829628,
+      "longitude": -117.1648712
+    },
+    {
+      "_id": 3,
+      "name": "Ralph / 101 G Street, San Diego, CA 92101",
+      "latitude": 32.7121293,
+      "longitude": -117.1633331
+    },    
+    {
+      "_id": 4,
+      "name": "Walmart Neighborhood Market/ 2121 Imperial Avenue, San Diego, CA 92102",
+      "latitude": 32.705735,
+      "longitude": -117.144421
+    } 
+  ]
+}

@@ -1,0 +1,359 @@
+{
+    "data": [
+        {
+            "id": 7133378281521,
+            "title": "iPhone 12",
+            "capacity": "256GB",
+            "carrier": "ATT",
+            "body_html": "INCLUDED_ACCESSORIES: AC Adapter\nCARRIER: AT&amp;T\nDESCRIPTION: Apple Apple iPhone 12 256GB  (AT&amp;T) \nOVERALL_CONDITION: Certified Like New\nCOLOR: Green\nIS_THIS_PHONE_ROOTED_OR_JAILBROKEN: No\nFULLY_FUNCTIONAL_RETAIL_ONLY: Working\nCAPACITY: 256GB\nUNIQUE: None\nCosmetic Condition: Excellent",
+            "vendor": "Apple",
+            "product_type": "",
+            "created_at": "2023-01-19T13:17:11-08:00",
+            "handle": "iphone-12-256gb",
+            "updated_at": "2023-01-20T15:06:27-08:00",
+            "published_at": null,
+            "template_suffix": null,
+            "status": "active",
+            "published_scope": "web",
+            "tags": "",
+            "admin_graphql_api_id": "gid://shopify/Product/7133378281525",
+            "variants": [
+                {
+                    "id": 42080718454831,
+                    "product_id": 7133378281521,
+                    "title": "Green / Excellent",
+                    "price": "78.00",
+                    "sku": "GSB075481226503",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "fulfillment_service": "manual",
+                    "inventory_management": "shopify",
+                    "option1": "Green",
+                    "option2": "Excellent",
+                    "option3": null,
+                    "created_at": "2023-01-19T13:17:11-08:00",
+                    "updated_at": "2023-01-20T15:06:27-08:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 222,
+                    "image_id": null,
+                    "weight": 0.49,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 44177267523637,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "tax_code": "",
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42080718454837"
+                }
+            ],
+            "options": [
+                {
+                    "id": 9119551946801,
+                    "product_id": 7133378281521,
+                    "name": "Color",
+                    "position": 1,
+                    "values": [
+                        "Green"
+                    ]
+                },
+                {
+                    "id": 9119551979571,
+                    "product_id": 7133378281521,
+                    "name": "Cosmetic Condition",
+                    "position": 2,
+                    "values": [
+                        "Excellent"
+                    ]
+                }
+            ],
+            "images": [],
+            "image": null
+        },
+        {
+            "id": 7133378281522,
+            "title": "iPhone 13 ",
+            "capacity": "256GB",
+            "carrier": "ATT",
+            "body_html": "INCLUDED_ACCESSORIES: AC Adapter\nCARRIER: AT&amp;T\nDESCRIPTION: Apple Apple iPhone 12 256GB  (AT&amp;T) \nOVERALL_CONDITION: Certified Like New\nCOLOR: Green\nIS_THIS_PHONE_ROOTED_OR_JAILBROKEN: No\nFULLY_FUNCTIONAL_RETAIL_ONLY: Working\nCAPACITY: 256GB\nUNIQUE: None\nCosmetic Condition: Excellent",
+            "vendor": "Apple",
+            "product_type": "",
+            "created_at": "2023-01-19T13:17:11-08:00",
+            "handle": "iphone-13-256gb",
+            "updated_at": "2023-01-20T15:06:27-08:00",
+            "published_at": null,
+            "template_suffix": null,
+            "status": "active",
+            "published_scope": "web",
+            "tags": "",
+            "admin_graphql_api_id": "gid://shopify/Product/7133378281525",
+            "variants": [
+                {
+                    "id": 42080718454832,
+                    "product_id": 7133378281522,
+                    "title": "Red / Excellent",
+                    "price": "1200.00",
+                    "sku": "GSB075481226503",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "fulfillment_service": "manual",
+                    "inventory_management": "shopify",
+                    "option1": "Red",
+                    "option2": "Excellent",
+                    "option3": null,
+                    "created_at": "2023-01-19T13:17:11-08:00",
+                    "updated_at": "2023-01-20T15:06:27-08:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 222,
+                    "image_id": null,
+                    "weight": 0.49,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 44177267523632,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "tax_code": "",
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42080718454837"
+                }
+            ],
+            "options": [
+                {
+                    "id": 9119551946802,
+                    "product_id": 7133378281522,
+                    "name": "Color",
+                    "position": 1,
+                    "values": [
+                        "blue"
+                    ]
+                },
+                {
+                    "id": 9119551979573,
+                    "product_id": 7133378281525,
+                    "name": "Cosmetic Condition",
+                    "position": 2,
+                    "values": [
+                        "Excellent"
+                    ]
+                }
+            ],
+            "images": [],
+            "image": null
+        },
+        {
+            "id": 7133378281523,
+            "title": "iPhone 13 Pro",
+            "capacity": "256GB",
+            "carrier": "ATT",
+            "body_html": "INCLUDED_ACCESSORIES: AC Adapter\nCARRIER: AT&amp;T\nDESCRIPTION: Apple Apple iPhone 12 256GB  (AT&amp;T) \nOVERALL_CONDITION: Certified Like New\nCOLOR: Green\nIS_THIS_PHONE_ROOTED_OR_JAILBROKEN: No\nFULLY_FUNCTIONAL_RETAIL_ONLY: Working\nCAPACITY: 256GB\nUNIQUE: None\nCosmetic Condition: Excellent",
+            "vendor": "Apple",
+            "product_type": "",
+            "created_at": "2023-01-19T13:17:11-08:00",
+            "handle": "iphone-13pro-256gb",
+            "updated_at": "2023-01-20T15:06:27-08:00",
+            "published_at": null,
+            "template_suffix": null,
+            "status": "active",
+            "published_scope": "web",
+            "tags": "",
+            "admin_graphql_api_id": "gid://shopify/Product/7133378281525",
+            "variants": [
+                {
+                    "id": 42080718454833,
+                    "product_id": 7133378281523,
+                    "title": "Pink / Excellent",
+                    "price": "200.00",
+                    "sku": "GSB075481226503",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "fulfillment_service": "manual",
+                    "inventory_management": "shopify",
+                    "option1": "Pink",
+                    "option2": "Excellent",
+                    "option3": null,
+                    "created_at": "2023-01-19T13:17:11-08:00",
+                    "updated_at": "2023-01-20T15:06:27-08:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 222,
+                    "image_id": null,
+                    "weight": 0.49,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 44177267523633,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "tax_code": "",
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42080718454837"
+                }
+            ],
+            "options": [
+                {
+                    "id": 9119551946803,
+                    "product_id": 7133378281523,
+                    "name": "Color",
+                    "position": 1,
+                    "values": [
+                        "Pink"
+                    ]
+                },
+                {
+                    "id": 9119551979573,
+                    "product_id": 7133378281523,
+                    "name": "Cosmetic Condition",
+                    "position": 2,
+                    "values": [
+                        "Excellent"
+                    ]
+                }
+            ],
+            "images": [],
+            "image": null
+        },
+        {
+            "id": 7133378281524,
+            "title": "iPhone 14 Pro",
+            "capacity": "256GB",
+            "carrier": "ATT",
+            "body_html": "INCLUDED_ACCESSORIES: AC Adapter\nCARRIER: AT&amp;T\nDESCRIPTION: Apple Apple iPhone 12 256GB  (AT&amp;T) \nOVERALL_CONDITION: Certified Like New\nCOLOR: Green\nIS_THIS_PHONE_ROOTED_OR_JAILBROKEN: No\nFULLY_FUNCTIONAL_RETAIL_ONLY: Working\nCAPACITY: 256GB\nUNIQUE: None\nCosmetic Condition: Excellent",
+            "vendor": "Apple",
+            "product_type": "",
+            "created_at": "2023-01-19T13:17:11-08:00",
+            "handle": "iphone-14pro-256gb",
+            "updated_at": "2023-01-20T15:06:27-08:00",
+            "published_at": null,
+            "template_suffix": null,
+            "status": "active",
+            "published_scope": "web",
+            "tags": "",
+            "admin_graphql_api_id": "gid://shopify/Product/7133378281525",
+            "variants": [
+                {
+                    "id": 42080718454834,
+                    "product_id": 7133378281524,
+                    "title": "Red / Excellent",
+                    "price": "350.00",
+                    "sku": "GSB075481226503",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "fulfillment_service": "manual",
+                    "inventory_management": "shopify",
+                    "option1": "Red",
+                    "option2": "Excellent",
+                    "option3": null,
+                    "created_at": "2023-01-19T13:17:11-08:00",
+                    "updated_at": "2023-01-20T15:06:27-08:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 222,
+                    "image_id": null,
+                    "weight": 0.49,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 44177267523634,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "tax_code": "",
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42080718454837"
+                }
+            ],
+            "options": [
+                {
+                    "id": 9119551946804,
+                    "product_id": 7133378281524,
+                    "name": "Color",
+                    "position": 1,
+                    "values": [
+                        "Red"
+                    ]
+                },
+                {
+                    "id": 9119551979573,
+                    "product_id": 7133378281525,
+                    "name": "Cosmetic Condition",
+                    "position": 2,
+                    "values": [
+                        "Excellent"
+                    ]
+                }
+            ],
+            "images": [],
+            "image": null
+        },
+        {
+            "id": 7133378281525,
+            "title": "iPhone 14",
+            "capacity": "512GB",
+            "carrier": "ATT",
+            "body_html": "INCLUDED_ACCESSORIES: AC Adapter\nCARRIER: AT&amp;T\nDESCRIPTION: Apple Apple iPhone 12 256GB  (AT&amp;T) \nOVERALL_CONDITION: Certified Like New\nCOLOR: Green\nIS_THIS_PHONE_ROOTED_OR_JAILBROKEN: No\nFULLY_FUNCTIONAL_RETAIL_ONLY: Working\nCAPACITY: 256GB\nUNIQUE: None\nCosmetic Condition: Excellent",
+            "vendor": "Apple",
+            "product_type": "",
+            "created_at": "2023-01-19T13:17:11-08:00",
+            "handle": "iphone-14-512gb",
+            "updated_at": "2023-01-20T15:06:27-08:00",
+            "published_at": null,
+            "template_suffix": null,
+            "status": "active",
+            "published_scope": "web",
+            "tags": "",
+            "admin_graphql_api_id": "gid://shopify/Product/7133378281525",
+            "variants": [
+                {
+                    "id": 42080718454837,
+                    "product_id": 7133378281525,
+                    "title": "Yellow / Excellent",
+                    "price": "1000.00",
+                    "sku": "GSB075481226503",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": null,
+                    "fulfillment_service": "manual",
+                    "inventory_management": "shopify",
+                    "option1": "Yellow",
+                    "option2": "Excellent",
+                    "option3": null,
+                    "created_at": "2023-01-19T13:17:11-08:00",
+                    "updated_at": "2023-01-20T15:06:27-08:00",
+                    "taxable": true,
+                    "barcode": null,
+                    "grams": 222,
+                    "image_id": null,
+                    "weight": 0.49,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 44177267523637,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "tax_code": "",
+                    "requires_shipping": true,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42080718454837"
+                }
+            ],
+            "options": [
+                {
+                    "id": 9119551946805,
+                    "product_id": 7133378281525,
+                    "name": "Color",
+                    "position": 1,
+                    "values": [
+                        "Yellow"
+                    ]
+                },
+                {
+                    "id": 9119551979573,
+                    "product_id": 7133378281525,
+                    "name": "Cosmetic Condition",
+                    "position": 2,
+                    "values": [
+                        "Excellent"
+                    ]
+                }
+            ],
+            "images": [],
+            "image": null
+        }
+    ]
+}
